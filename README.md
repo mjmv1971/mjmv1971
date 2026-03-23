@@ -13,15 +13,15 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 Licenciado Administracion de Empresas (UADE)
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+Analista Funcional Senior con más de 15 años de experiencia en IT, especializada en gestión de la demanda de requerimientos del negocio, análisis de procesos, backlog management y relación cross-functional con los distintos stakeholders. 
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+Cuento con sólida trayectoria en ERP de Finanzas (SAP, Oracle PeopleSoft),Aplicaciones Web y sus integraciones, participando en proyectos locales y globales, acompañando tanto evolutivos como proyectos end-to-end desde el requerimiento hasta su implementación.
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+Actuo como nexo entre las áreas de negocio de los clientes y los equipos técnicos, asegurando que las necesidades del negocio se traduzcan en requerimientos claros y soluciones funcionales de valor, alineados a los objetivos.
 
-📫 Contacto: **unsimpledev@gmail.com**
+Me considero una persona proactiva y comprometida, con enfoque a la obtención de resultados.
 <!--Intro end-->
   </p>
 <br>
