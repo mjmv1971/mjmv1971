@@ -51,5 +51,36 @@ I act as a liaison between clients' business areas and technical teams, ensuring
 
 <details open>
 
+<div align="center">
+
+## 🛠️ Technical Skills
+
+### 🧾 SAP & VIM Support
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![OpenText VIM](https://img.shields.io/badge/OpenText-VIM-005F99?style=for-the-badge)
+![ORACLE](https://img.shields.io/badge/ORACLE-repo-blue?logo=ORACLE)
+(https://iconos8.es/icon/39913/oracle-logo)
+
+### 🧪 Exception Handling & Interfaces
+`Workflow Issues` • `IDoc Monitoring` • `PO & Non-PO`  
+`Ariba` • `ICI` • `Tungsten` • `OpusCapita`
+
+###  💻 **Data & Analytics**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+
+### 💻 Programming & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+### ☁️ Cloud & DevOps (Supporting Skills)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+---
 
 
